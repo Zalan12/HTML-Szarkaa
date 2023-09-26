@@ -1,0 +1,29 @@
+body{background-color: aliceblue;
+color: darkblue;}
+h2{color: crimson;}
+a{color: crimson;
+text-decoration: none;}
+#fokep{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;margin-bottom: 20px;}
+#masodik{float: right;
+    display: block;
+width: 30%;}
+#eletmod{float:left;
+display: block;
+width: 69%;}
+img{border: solid 1px black;}
+td{border-style: none; 
+    padding-bottom: 10px;
+}
+table{border-style: none;
+width: 500px;
+font-size: larger;}
+#cim{background-color: crimson;
+color: aliceblue;
+text-align: center;}
+.kozep{text-align: center;}
+.jobb{text-align: right;
+    padding-right: 30px;
+padding-left: 60px;}
